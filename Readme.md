@@ -1,3 +1,7 @@
+####This is an Assignment2
+==========================
+###Team Guide
+-------------
 팀장
 2016722015 오지현 (GrapCandy)
 팀원
